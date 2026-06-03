@@ -1,0 +1,82 @@
+/* * {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#navbar{
+    height: 60px;
+    background-color: black;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+
+a{
+    margin-right:200px;
+}
+
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#content{
+    height: 500px;
+} */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    animation: coloranimate 2s ease-in 0s infinite normal;
+}
+
+@keyframes coloranimate{
+    from{
+        left: 0px;
+        background-color: yellow;
+    }
+    to{
+        left:200px;
+        background-color:red;
+        color:white;
+    
+    }
+
+} */
+
+/* .img{
+    height: 500px;
+    width: 1000px;
+    display: flex;
+} */
+
+.text{
+    align-items: center;
+    text-align: center;
+   
+    display:flex;
+    color: white;
+    height: 400px;
+    width: 400px;
+    background-image: url("naturee.png") ;
+    
+}
